@@ -1,2 +1,7 @@
-# audio_visual_transformation-
+# Audio Visual Transfomration
 Audio Visual Transformation 
+
+TO DO 
+
+audio input and conversion 
+algorithm
